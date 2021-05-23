@@ -1,0 +1,28 @@
+/* Body */
+body{
+    background-color: #d3d3d3; 
+}
+
+.navigation .navbar-brand{
+color:white;
+padding:inherit;
+font-weight: bold;
+margin-left: 50px;
+text-align: center;
+}
+
+h5{
+    text-align: left;
+    font-weight: bold;
+}
+h3{
+    text-align: left;
+    font-weight: bold;
+    
+}
+ h5{
+     padding-top: 21px;
+     padding-left: 50px;
+    
+ }
+
